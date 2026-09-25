@@ -1,0 +1,801 @@
+customer_id,customer_name,city,acquisition_channel,signup_date
+1,Customer_0001,Rawalpindi,Referral,2024-08-11
+2,Customer_0002,Islamabad,Organic Search,2024-08-06
+3,Customer_0003,Peshawar,Email,2024-05-06
+4,Customer_0004,Multan,Paid Ads,2023-03-31
+5,Customer_0005,Lahore,Organic Search,2023-07-11
+6,Customer_0006,Quetta,Organic Search,2024-03-09
+7,Customer_0007,Rawalpindi,Referral,2024-09-30
+8,Customer_0008,Rawalpindi,Organic Search,2024-06-04
+9,Customer_0009,Lahore,Paid Ads,2023-09-26
+10,Customer_0010,Islamabad,Social Media,2023-05-31
+11,Customer_0011,Karachi,Organic Search,2024-09-05
+12,Customer_0012,Peshawar,Organic Search,2023-06-26
+13,Customer_0013,Faisalabad,Social Media,2023-08-07
+14,Customer_0014,Rawalpindi,Paid Ads,2024-09-08
+15,Customer_0015,Islamabad,Organic Search,2023-12-25
+16,Customer_0016,Karachi,Email,2023-06-19
+17,Customer_0017,Islamabad,Email,2023-01-04
+18,Customer_0018,Lahore,Paid Ads,2023-10-02
+19,Customer_0019,Rawalpindi,Referral,2024-09-22
+20,Customer_0020,Faisalabad,Organic Search,2023-10-04
+21,Customer_0021,Rawalpindi,Organic Search,2024-03-22
+22,Customer_0022,Karachi,Paid Ads,2023-06-11
+23,Customer_0023,Quetta,Organic Search,2024-05-10
+24,Customer_0024,Peshawar,Referral,2024-05-10
+25,Customer_0025,Rawalpindi,Email,2024-01-24
+26,Customer_0026,Lahore,Organic Search,2024-05-08
+27,Customer_0027,Islamabad,Paid Ads,2024-01-05
+28,Customer_0028,Lahore,Organic Search,2023-08-30
+29,Customer_0029,Lahore,Email,2024-04-16
+30,Customer_0030,Multan,Organic Search,2024-06-17
+31,Customer_0031,Rawalpindi,Referral,2024-06-21
+32,Customer_0032,Quetta,Paid Ads,2023-05-17
+33,Customer_0033,Karachi,Paid Ads,2024-03-08
+34,Customer_0034,Karachi,Referral,2023-01-03
+35,Customer_0035,Islamabad,Referral,2024-01-01
+36,Customer_0036,Lahore,Paid Ads,2023-12-31
+37,Customer_0037,Lahore,Referral,2023-08-21
+38,Customer_0038,Islamabad,Social Media,2024-09-27
+39,Customer_0039,Karachi,Paid Ads,2024-07-18
+40,Customer_0040,Multan,Paid Ads,2023-01-25
+41,Customer_0041,Islamabad,Organic Search,2023-05-14
+42,Customer_0042,Rawalpindi,Email,2023-05-13
+43,Customer_0043,Multan,Paid Ads,2024-07-27
+44,Customer_0044,Karachi,Paid Ads,2023-11-28
+45,Customer_0045,Rawalpindi,Organic Search,2024-04-10
+46,Customer_0046,Rawalpindi,Email,2024-06-01
+47,Customer_0047,Karachi,Paid Ads,2024-05-05
+48,Customer_0048,Karachi,Referral,2023-02-26
+49,Customer_0049,Multan,Organic Search,2023-03-31
+50,Customer_0050,Lahore,Social Media,2023-09-10
+51,Customer_0051,Lahore,Organic Search,2023-08-05
+52,Customer_0052,Lahore,Organic Search,2024-04-22
+53,Customer_0053,Rawalpindi,Email,2023-04-10
+54,Customer_0054,Multan,Social Media,2023-08-26
+55,Customer_0055,Multan,Organic Search,2023-06-01
+56,Customer_0056,Rawalpindi,Paid Ads,2023-05-01
+57,Customer_0057,Islamabad,Referral,2023-04-21
+58,Customer_0058,Faisalabad,Email,2023-05-05
+59,Customer_0059,Lahore,Paid Ads,2023-12-27
+60,Customer_0060,Lahore,Paid Ads,2023-09-20
+61,Customer_0061,Multan,Referral,2023-10-06
+62,Customer_0062,Islamabad,Referral,2023-11-03
+63,Customer_0063,Faisalabad,Email,2024-04-18
+64,Customer_0064,Rawalpindi,Paid Ads,2024-07-04
+65,Customer_0065,Faisalabad,Organic Search,2023-12-03
+66,Customer_0066,Islamabad,Social Media,2024-02-15
+67,Customer_0067,Islamabad,Email,2024-04-16
+68,Customer_0068,Karachi,Email,2024-03-17
+69,Customer_0069,Lahore,Organic Search,2023-03-27
+70,Customer_0070,Islamabad,Organic Search,2024-09-20
+71,Customer_0071,Lahore,Referral,2023-04-16
+72,Customer_0072,Karachi,Organic Search,2023-09-21
+73,Customer_0073,Peshawar,Social Media,2024-02-22
+74,Customer_0074,Karachi,Paid Ads,2023-09-15
+75,Customer_0075,Lahore,Referral,2023-06-05
+76,Customer_0076,Karachi,Email,2024-08-13
+77,Customer_0077,Karachi,Paid Ads,2023-02-15
+78,Customer_0078,Multan,Organic Search,2023-06-07
+79,Customer_0079,Islamabad,Referral,2024-09-26
+80,Customer_0080,Rawalpindi,Paid Ads,2024-04-11
+81,Customer_0081,Multan,Paid Ads,2023-02-25
+82,Customer_0082,Karachi,Referral,2024-04-27
+83,Customer_0083,Rawalpindi,Social Media,2024-09-11
+84,Customer_0084,Lahore,Paid Ads,2023-03-04
+85,Customer_0085,Lahore,Organic Search,2023-09-22
+86,Customer_0086,Lahore,Paid Ads,2023-10-27
+87,Customer_0087,Multan,Paid Ads,2023-03-25
+88,Customer_0088,Islamabad,Organic Search,2023-05-09
+89,Customer_0089,Lahore,Organic Search,2023-04-22
+90,Customer_0090,Islamabad,Referral,2023-04-29
+91,Customer_0091,Lahore,Paid Ads,2023-09-15
+92,Customer_0092,Multan,Social Media,2023-10-24
+93,Customer_0093,Islamabad,Organic Search,2023-06-02
+94,Customer_0094,Karachi,Organic Search,2023-07-04
+95,Customer_0095,Karachi,Referral,2023-05-03
+96,Customer_0096,Faisalabad,Email,2024-05-23
+97,Customer_0097,Karachi,Organic Search,2023-05-16
+98,Customer_0098,Lahore,Organic Search,2024-08-02
+99,Customer_0099,Lahore,Organic Search,2023-12-11
+100,Customer_0100,Quetta,Paid Ads,2024-05-27
+101,Customer_0101,Peshawar,Paid Ads,2024-02-11
+102,Customer_0102,Multan,Organic Search,2023-06-19
+103,Customer_0103,Karachi,Organic Search,2024-01-20
+104,Customer_0104,Quetta,Paid Ads,2023-06-25
+105,Customer_0105,Rawalpindi,Social Media,2023-03-17
+106,Customer_0106,Multan,Referral,2023-06-12
+107,Customer_0107,Islamabad,Paid Ads,2023-06-26
+108,Customer_0108,Karachi,Organic Search,2023-03-28
+109,Customer_0109,Lahore,Organic Search,2023-01-16
+110,Customer_0110,Peshawar,Organic Search,2024-08-26
+111,Customer_0111,Islamabad,Referral,2023-11-25
+112,Customer_0112,Lahore,Email,2023-09-14
+113,Customer_0113,Karachi,Social Media,2024-08-17
+114,Customer_0114,Faisalabad,Social Media,2023-05-24
+115,Customer_0115,Lahore,Social Media,2023-09-15
+116,Customer_0116,Peshawar,Social Media,2024-06-25
+117,Customer_0117,Rawalpindi,Organic Search,2024-02-08
+118,Customer_0118,Multan,Organic Search,2023-09-13
+119,Customer_0119,Islamabad,Organic Search,2023-06-13
+120,Customer_0120,Faisalabad,Paid Ads,2023-01-23
+121,Customer_0121,Faisalabad,Organic Search,2023-02-24
+122,Customer_0122,Faisalabad,Email,2023-04-14
+123,Customer_0123,Lahore,Referral,2024-05-17
+124,Customer_0124,Karachi,Paid Ads,2024-02-13
+125,Customer_0125,Lahore,Organic Search,2023-10-04
+126,Customer_0126,Islamabad,Organic Search,2024-05-15
+127,Customer_0127,Karachi,Organic Search,2023-04-13
+128,Customer_0128,Lahore,Email,2023-05-15
+129,Customer_0129,Lahore,Paid Ads,2023-09-08
+130,Customer_0130,Faisalabad,Referral,2024-08-09
+131,Customer_0131,Lahore,Organic Search,2024-01-28
+132,Customer_0132,Peshawar,Paid Ads,2024-06-27
+133,Customer_0133,Faisalabad,Paid Ads,2023-06-08
+134,Customer_0134,Karachi,Referral,2024-06-26
+135,Customer_0135,Faisalabad,Referral,2023-02-16
+136,Customer_0136,Lahore,Organic Search,2023-05-26
+137,Customer_0137,Quetta,Social Media,2023-12-01
+138,Customer_0138,Islamabad,Organic Search,2023-02-02
+139,Customer_0139,Rawalpindi,Email,2024-07-02
+140,Customer_0140,Lahore,Organic Search,2024-07-08
+141,Customer_0141,Islamabad,Organic Search,2023-12-12
+142,Customer_0142,Islamabad,Email,2023-07-15
+143,Customer_0143,Quetta,Organic Search,2023-03-05
+144,Customer_0144,Faisalabad,Paid Ads,2024-01-31
+145,Customer_0145,Islamabad,Paid Ads,2023-12-10
+146,Customer_0146,Karachi,Organic Search,2024-04-30
+147,Customer_0147,Karachi,Referral,2024-01-21
+148,Customer_0148,Islamabad,Email,2023-03-23
+149,Customer_0149,Islamabad,Email,2023-03-19
+150,Customer_0150,Lahore,Paid Ads,2024-05-13
+151,Customer_0151,Rawalpindi,Paid Ads,2023-04-12
+152,Customer_0152,Peshawar,Organic Search,2024-08-22
+153,Customer_0153,Lahore,Organic Search,2023-03-09
+154,Customer_0154,Islamabad,Organic Search,2024-04-10
+155,Customer_0155,Lahore,Social Media,2024-09-15
+156,Customer_0156,Multan,Email,2023-10-09
+157,Customer_0157,Karachi,Referral,2023-02-06
+158,Customer_0158,Faisalabad,Paid Ads,2024-07-14
+159,Customer_0159,Multan,Paid Ads,2023-04-30
+160,Customer_0160,Rawalpindi,Paid Ads,2023-12-04
+161,Customer_0161,Lahore,Paid Ads,2024-09-21
+162,Customer_0162,Peshawar,Paid Ads,2024-04-20
+163,Customer_0163,Karachi,Organic Search,2023-01-30
+164,Customer_0164,Lahore,Organic Search,2024-06-08
+165,Customer_0165,Islamabad,Social Media,2023-04-14
+166,Customer_0166,Karachi,Paid Ads,2024-04-23
+167,Customer_0167,Rawalpindi,Social Media,2024-02-01
+168,Customer_0168,Rawalpindi,Organic Search,2023-07-03
+169,Customer_0169,Karachi,Paid Ads,2023-09-28
+170,Customer_0170,Quetta,Organic Search,2023-03-17
+171,Customer_0171,Karachi,Organic Search,2024-09-22
+172,Customer_0172,Islamabad,Organic Search,2023-06-02
+173,Customer_0173,Karachi,Organic Search,2023-07-17
+174,Customer_0174,Quetta,Social Media,2023-11-18
+175,Customer_0175,Lahore,Paid Ads,2024-03-05
+176,Customer_0176,Lahore,Referral,2023-11-19
+177,Customer_0177,Islamabad,Paid Ads,2023-11-19
+178,Customer_0178,Quetta,Paid Ads,2024-01-08
+179,Customer_0179,Peshawar,Paid Ads,2024-07-02
+180,Customer_0180,Rawalpindi,Organic Search,2023-09-10
+181,Customer_0181,Peshawar,Social Media,2024-06-15
+182,Customer_0182,Peshawar,Email,2024-05-17
+183,Customer_0183,Islamabad,Referral,2024-09-06
+184,Customer_0184,Karachi,Paid Ads,2024-08-06
+185,Customer_0185,Rawalpindi,Organic Search,2024-05-25
+186,Customer_0186,Multan,Social Media,2023-06-07
+187,Customer_0187,Karachi,Paid Ads,2024-05-09
+188,Customer_0188,Lahore,Organic Search,2024-04-15
+189,Customer_0189,Rawalpindi,Paid Ads,2023-07-04
+190,Customer_0190,Karachi,Email,2024-03-09
+191,Customer_0191,Quetta,Referral,2023-06-11
+192,Customer_0192,Karachi,Referral,2023-12-01
+193,Customer_0193,Lahore,Email,2024-05-24
+194,Customer_0194,Rawalpindi,Organic Search,2023-05-01
+195,Customer_0195,Lahore,Social Media,2023-08-04
+196,Customer_0196,Lahore,Paid Ads,2024-05-23
+197,Customer_0197,Faisalabad,Referral,2023-10-17
+198,Customer_0198,Peshawar,Organic Search,2024-09-05
+199,Customer_0199,Lahore,Social Media,2023-01-06
+200,Customer_0200,Karachi,Organic Search,2024-04-06
+201,Customer_0201,Rawalpindi,Organic Search,2024-06-04
+202,Customer_0202,Quetta,Paid Ads,2024-08-09
+203,Customer_0203,Islamabad,Organic Search,2023-04-11
+204,Customer_0204,Lahore,Organic Search,2024-09-20
+205,Customer_0205,Lahore,Referral,2023-09-08
+206,Customer_0206,Karachi,Paid Ads,2023-08-13
+207,Customer_0207,Lahore,Social Media,2023-08-16
+208,Customer_0208,Multan,Organic Search,2024-02-12
+209,Customer_0209,Lahore,Referral,2024-02-26
+210,Customer_0210,Islamabad,Paid Ads,2023-10-30
+211,Customer_0211,Multan,Referral,2023-02-15
+212,Customer_0212,Faisalabad,Paid Ads,2024-09-22
+213,Customer_0213,Lahore,Paid Ads,2023-05-22
+214,Customer_0214,Rawalpindi,Social Media,2023-03-01
+215,Customer_0215,Multan,Paid Ads,2024-01-17
+216,Customer_0216,Multan,Organic Search,2023-09-21
+217,Customer_0217,Lahore,Referral,2024-01-29
+218,Customer_0218,Lahore,Email,2024-07-13
+219,Customer_0219,Peshawar,Organic Search,2023-03-04
+220,Customer_0220,Karachi,Paid Ads,2023-07-01
+221,Customer_0221,Karachi,Email,2023-11-27
+222,Customer_0222,Islamabad,Referral,2024-05-18
+223,Customer_0223,Multan,Social Media,2024-01-19
+224,Customer_0224,Quetta,Paid Ads,2023-09-02
+225,Customer_0225,Karachi,Referral,2024-01-25
+226,Customer_0226,Peshawar,Organic Search,2024-09-18
+227,Customer_0227,Lahore,Social Media,2023-11-03
+228,Customer_0228,Islamabad,Paid Ads,2024-07-18
+229,Customer_0229,Faisalabad,Referral,2024-05-13
+230,Customer_0230,Lahore,Paid Ads,2023-07-12
+231,Customer_0231,Lahore,Paid Ads,2023-06-09
+232,Customer_0232,Karachi,Referral,2024-05-07
+233,Customer_0233,Quetta,Paid Ads,2023-05-13
+234,Customer_0234,Faisalabad,Social Media,2023-08-04
+235,Customer_0235,Quetta,Paid Ads,2023-05-31
+236,Customer_0236,Rawalpindi,Referral,2024-01-23
+237,Customer_0237,Islamabad,Paid Ads,2023-07-07
+238,Customer_0238,Rawalpindi,Paid Ads,2024-02-25
+239,Customer_0239,Lahore,Paid Ads,2024-08-20
+240,Customer_0240,Lahore,Organic Search,2024-06-14
+241,Customer_0241,Rawalpindi,Organic Search,2024-08-28
+242,Customer_0242,Rawalpindi,Referral,2023-01-16
+243,Customer_0243,Karachi,Referral,2023-10-19
+244,Customer_0244,Islamabad,Referral,2023-05-21
+245,Customer_0245,Faisalabad,Organic Search,2024-08-09
+246,Customer_0246,Peshawar,Paid Ads,2024-03-30
+247,Customer_0247,Faisalabad,Organic Search,2023-07-24
+248,Customer_0248,Karachi,Referral,2023-12-27
+249,Customer_0249,Karachi,Email,2024-01-22
+250,Customer_0250,Islamabad,Organic Search,2023-11-13
+251,Customer_0251,Faisalabad,Referral,2023-10-31
+252,Customer_0252,Peshawar,Organic Search,2023-02-05
+253,Customer_0253,Islamabad,Organic Search,2023-10-17
+254,Customer_0254,Karachi,Organic Search,2023-08-11
+255,Customer_0255,Karachi,Organic Search,2024-06-06
+256,Customer_0256,Rawalpindi,Referral,2024-07-06
+257,Customer_0257,Rawalpindi,Social Media,2024-04-24
+258,Customer_0258,Lahore,Organic Search,2023-01-20
+259,Customer_0259,Lahore,Paid Ads,2024-06-21
+260,Customer_0260,Faisalabad,Referral,2023-09-11
+261,Customer_0261,Lahore,Social Media,2023-09-24
+262,Customer_0262,Rawalpindi,Referral,2024-08-26
+263,Customer_0263,Karachi,Organic Search,2024-07-08
+264,Customer_0264,Lahore,Referral,2023-02-02
+265,Customer_0265,Peshawar,Paid Ads,2023-08-18
+266,Customer_0266,Lahore,Social Media,2024-04-24
+267,Customer_0267,Karachi,Paid Ads,2023-12-11
+268,Customer_0268,Lahore,Referral,2023-06-14
+269,Customer_0269,Lahore,Organic Search,2023-12-02
+270,Customer_0270,Lahore,Paid Ads,2024-07-07
+271,Customer_0271,Lahore,Email,2023-05-23
+272,Customer_0272,Lahore,Referral,2024-04-21
+273,Customer_0273,Lahore,Paid Ads,2024-04-14
+274,Customer_0274,Faisalabad,Social Media,2024-07-19
+275,Customer_0275,Multan,Email,2023-07-10
+276,Customer_0276,Karachi,Paid Ads,2023-05-18
+277,Customer_0277,Karachi,Paid Ads,2023-12-16
+278,Customer_0278,Islamabad,Paid Ads,2023-12-06
+279,Customer_0279,Peshawar,Referral,2023-09-19
+280,Customer_0280,Peshawar,Paid Ads,2024-05-12
+281,Customer_0281,Lahore,Organic Search,2024-05-25
+282,Customer_0282,Lahore,Social Media,2023-06-07
+283,Customer_0283,Karachi,Social Media,2024-05-23
+284,Customer_0284,Karachi,Email,2023-05-28
+285,Customer_0285,Faisalabad,Social Media,2023-09-18
+286,Customer_0286,Karachi,Referral,2023-01-18
+287,Customer_0287,Lahore,Referral,2023-08-06
+288,Customer_0288,Karachi,Referral,2024-09-04
+289,Customer_0289,Islamabad,Paid Ads,2023-10-10
+290,Customer_0290,Lahore,Paid Ads,2024-03-29
+291,Customer_0291,Rawalpindi,Organic Search,2023-03-10
+292,Customer_0292,Lahore,Referral,2024-02-11
+293,Customer_0293,Peshawar,Organic Search,2023-08-26
+294,Customer_0294,Lahore,Organic Search,2024-04-20
+295,Customer_0295,Peshawar,Paid Ads,2024-08-16
+296,Customer_0296,Peshawar,Paid Ads,2023-12-06
+297,Customer_0297,Quetta,Organic Search,2023-03-07
+298,Customer_0298,Rawalpindi,Email,2023-11-01
+299,Customer_0299,Rawalpindi,Email,2023-03-20
+300,Customer_0300,Faisalabad,Organic Search,2023-10-15
+301,Customer_0301,Rawalpindi,Organic Search,2023-02-09
+302,Customer_0302,Lahore,Paid Ads,2024-02-14
+303,Customer_0303,Islamabad,Email,2023-07-18
+304,Customer_0304,Islamabad,Email,2023-05-09
+305,Customer_0305,Peshawar,Organic Search,2023-01-12
+306,Customer_0306,Islamabad,Referral,2024-07-21
+307,Customer_0307,Karachi,Organic Search,2024-06-18
+308,Customer_0308,Faisalabad,Paid Ads,2024-06-02
+309,Customer_0309,Karachi,Social Media,2023-02-07
+310,Customer_0310,Lahore,Organic Search,2023-08-12
+311,Customer_0311,Islamabad,Organic Search,2024-09-12
+312,Customer_0312,Karachi,Paid Ads,2024-01-05
+313,Customer_0313,Karachi,Referral,2023-03-24
+314,Customer_0314,Karachi,Social Media,2023-04-01
+315,Customer_0315,Karachi,Social Media,2023-06-18
+316,Customer_0316,Karachi,Organic Search,2024-09-13
+317,Customer_0317,Karachi,Organic Search,2023-04-19
+318,Customer_0318,Multan,Email,2024-07-30
+319,Customer_0319,Karachi,Organic Search,2024-03-09
+320,Customer_0320,Quetta,Email,2024-08-12
+321,Customer_0321,Peshawar,Referral,2024-06-11
+322,Customer_0322,Islamabad,Organic Search,2023-08-01
+323,Customer_0323,Karachi,Email,2024-06-13
+324,Customer_0324,Islamabad,Organic Search,2023-04-19
+325,Customer_0325,Peshawar,Paid Ads,2023-07-05
+326,Customer_0326,Faisalabad,Paid Ads,2023-05-16
+327,Customer_0327,Rawalpindi,Paid Ads,2023-03-27
+328,Customer_0328,Islamabad,Referral,2023-02-27
+329,Customer_0329,Faisalabad,Referral,2023-04-30
+330,Customer_0330,Karachi,Social Media,2023-03-18
+331,Customer_0331,Multan,Social Media,2023-09-01
+332,Customer_0332,Lahore,Paid Ads,2023-02-15
+333,Customer_0333,Multan,Organic Search,2023-02-09
+334,Customer_0334,Peshawar,Referral,2024-09-24
+335,Customer_0335,Lahore,Social Media,2023-02-26
+336,Customer_0336,Faisalabad,Organic Search,2023-02-17
+337,Customer_0337,Lahore,Paid Ads,2023-01-20
+338,Customer_0338,Multan,Paid Ads,2023-03-26
+339,Customer_0339,Lahore,Organic Search,2023-12-04
+340,Customer_0340,Quetta,Referral,2024-06-12
+341,Customer_0341,Lahore,Paid Ads,2024-04-14
+342,Customer_0342,Quetta,Email,2024-01-06
+343,Customer_0343,Rawalpindi,Email,2023-02-24
+344,Customer_0344,Faisalabad,Email,2024-05-09
+345,Customer_0345,Rawalpindi,Paid Ads,2023-01-24
+346,Customer_0346,Rawalpindi,Paid Ads,2024-02-08
+347,Customer_0347,Quetta,Referral,2023-09-19
+348,Customer_0348,Karachi,Email,2024-07-17
+349,Customer_0349,Faisalabad,Paid Ads,2023-07-16
+350,Customer_0350,Lahore,Email,2024-02-12
+351,Customer_0351,Faisalabad,Organic Search,2023-10-09
+352,Customer_0352,Lahore,Email,2023-11-30
+353,Customer_0353,Faisalabad,Organic Search,2024-08-22
+354,Customer_0354,Faisalabad,Organic Search,2024-03-31
+355,Customer_0355,Islamabad,Paid Ads,2023-09-22
+356,Customer_0356,Islamabad,Organic Search,2023-10-13
+357,Customer_0357,Rawalpindi,Organic Search,2024-03-26
+358,Customer_0358,Rawalpindi,Organic Search,2023-08-10
+359,Customer_0359,Islamabad,Paid Ads,2023-04-18
+360,Customer_0360,Faisalabad,Referral,2023-10-26
+361,Customer_0361,Quetta,Organic Search,2023-02-13
+362,Customer_0362,Lahore,Referral,2023-04-19
+363,Customer_0363,Lahore,Email,2023-09-26
+364,Customer_0364,Lahore,Organic Search,2024-05-24
+365,Customer_0365,Faisalabad,Organic Search,2024-05-14
+366,Customer_0366,Karachi,Email,2023-06-16
+367,Customer_0367,Rawalpindi,Email,2023-09-27
+368,Customer_0368,Multan,Paid Ads,2023-04-09
+369,Customer_0369,Karachi,Email,2024-04-27
+370,Customer_0370,Peshawar,Organic Search,2023-06-07
+371,Customer_0371,Rawalpindi,Paid Ads,2024-05-25
+372,Customer_0372,Karachi,Referral,2024-06-22
+373,Customer_0373,Karachi,Organic Search,2024-03-16
+374,Customer_0374,Karachi,Referral,2023-07-30
+375,Customer_0375,Lahore,Paid Ads,2024-08-31
+376,Customer_0376,Lahore,Referral,2024-03-14
+377,Customer_0377,Quetta,Paid Ads,2024-02-17
+378,Customer_0378,Islamabad,Paid Ads,2024-07-01
+379,Customer_0379,Karachi,Organic Search,2024-07-17
+380,Customer_0380,Multan,Organic Search,2023-02-19
+381,Customer_0381,Islamabad,Referral,2024-07-17
+382,Customer_0382,Quetta,Organic Search,2024-05-03
+383,Customer_0383,Rawalpindi,Organic Search,2023-05-12
+384,Customer_0384,Islamabad,Organic Search,2023-07-16
+385,Customer_0385,Karachi,Organic Search,2024-04-25
+386,Customer_0386,Quetta,Email,2023-05-19
+387,Customer_0387,Multan,Paid Ads,2023-10-17
+388,Customer_0388,Quetta,Social Media,2024-03-16
+389,Customer_0389,Lahore,Organic Search,2024-02-20
+390,Customer_0390,Peshawar,Referral,2024-08-04
+391,Customer_0391,Faisalabad,Paid Ads,2023-03-13
+392,Customer_0392,Lahore,Paid Ads,2023-07-08
+393,Customer_0393,Faisalabad,Email,2024-09-21
+394,Customer_0394,Multan,Social Media,2023-12-30
+395,Customer_0395,Lahore,Email,2023-06-08
+396,Customer_0396,Islamabad,Organic Search,2023-07-05
+397,Customer_0397,Rawalpindi,Organic Search,2023-08-05
+398,Customer_0398,Karachi,Referral,2023-12-21
+399,Customer_0399,Islamabad,Organic Search,2023-07-01
+400,Customer_0400,Islamabad,Referral,2024-02-02
+401,Customer_0401,Karachi,Paid Ads,2023-10-12
+402,Customer_0402,Peshawar,Paid Ads,2024-01-26
+403,Customer_0403,Rawalpindi,Email,2023-04-10
+404,Customer_0404,Lahore,Referral,2024-02-03
+405,Customer_0405,Quetta,Organic Search,2024-08-13
+406,Customer_0406,Peshawar,Organic Search,2023-03-28
+407,Customer_0407,Karachi,Referral,2023-07-29
+408,Customer_0408,Rawalpindi,Paid Ads,2024-03-19
+409,Customer_0409,Lahore,Organic Search,2024-01-30
+410,Customer_0410,Quetta,Paid Ads,2024-03-07
+411,Customer_0411,Multan,Referral,2023-12-24
+412,Customer_0412,Faisalabad,Email,2024-03-12
+413,Customer_0413,Lahore,Paid Ads,2024-01-25
+414,Customer_0414,Peshawar,Paid Ads,2023-02-17
+415,Customer_0415,Lahore,Organic Search,2024-04-25
+416,Customer_0416,Karachi,Paid Ads,2023-10-13
+417,Customer_0417,Lahore,Organic Search,2023-02-02
+418,Customer_0418,Rawalpindi,Paid Ads,2023-09-19
+419,Customer_0419,Lahore,Referral,2023-10-06
+420,Customer_0420,Peshawar,Organic Search,2023-02-25
+421,Customer_0421,Faisalabad,Organic Search,2024-09-28
+422,Customer_0422,Lahore,Organic Search,2023-05-23
+423,Customer_0423,Lahore,Email,2023-07-31
+424,Customer_0424,Lahore,Referral,2023-10-09
+425,Customer_0425,Faisalabad,Organic Search,2024-06-15
+426,Customer_0426,Rawalpindi,Email,2024-04-19
+427,Customer_0427,Karachi,Paid Ads,2024-05-07
+428,Customer_0428,Peshawar,Paid Ads,2023-06-01
+429,Customer_0429,Lahore,Social Media,2024-06-24
+430,Customer_0430,Rawalpindi,Organic Search,2024-06-14
+431,Customer_0431,Peshawar,Organic Search,2023-10-24
+432,Customer_0432,Rawalpindi,Paid Ads,2023-12-15
+433,Customer_0433,Multan,Organic Search,2023-01-24
+434,Customer_0434,Rawalpindi,Referral,2024-04-30
+435,Customer_0435,Lahore,Organic Search,2024-09-06
+436,Customer_0436,Lahore,Organic Search,2023-10-29
+437,Customer_0437,Lahore,Organic Search,2023-12-12
+438,Customer_0438,Islamabad,Paid Ads,2023-11-15
+439,Customer_0439,Rawalpindi,Organic Search,2023-02-22
+440,Customer_0440,Faisalabad,Organic Search,2024-02-01
+441,Customer_0441,Peshawar,Email,2024-04-06
+442,Customer_0442,Lahore,Paid Ads,2024-08-15
+443,Customer_0443,Multan,Paid Ads,2024-08-17
+444,Customer_0444,Lahore,Organic Search,2023-11-11
+445,Customer_0445,Karachi,Paid Ads,2024-09-04
+446,Customer_0446,Multan,Organic Search,2023-12-04
+447,Customer_0447,Quetta,Referral,2024-02-15
+448,Customer_0448,Faisalabad,Organic Search,2024-01-20
+449,Customer_0449,Lahore,Email,2024-09-30
+450,Customer_0450,Faisalabad,Social Media,2024-04-16
+451,Customer_0451,Lahore,Organic Search,2023-03-18
+452,Customer_0452,Peshawar,Organic Search,2023-02-15
+453,Customer_0453,Multan,Organic Search,2023-09-19
+454,Customer_0454,Lahore,Referral,2023-11-26
+455,Customer_0455,Lahore,Organic Search,2024-03-03
+456,Customer_0456,Lahore,Email,2023-11-04
+457,Customer_0457,Quetta,Referral,2023-11-25
+458,Customer_0458,Islamabad,Email,2024-08-11
+459,Customer_0459,Rawalpindi,Paid Ads,2023-08-02
+460,Customer_0460,Faisalabad,Social Media,2023-11-12
+461,Customer_0461,Faisalabad,Organic Search,2023-12-23
+462,Customer_0462,Lahore,Paid Ads,2023-10-27
+463,Customer_0463,Quetta,Paid Ads,2024-09-10
+464,Customer_0464,Karachi,Social Media,2024-09-06
+465,Customer_0465,Faisalabad,Paid Ads,2023-11-24
+466,Customer_0466,Multan,Email,2023-10-15
+467,Customer_0467,Faisalabad,Organic Search,2024-01-12
+468,Customer_0468,Quetta,Social Media,2023-04-26
+469,Customer_0469,Lahore,Paid Ads,2023-09-30
+470,Customer_0470,Islamabad,Paid Ads,2023-05-19
+471,Customer_0471,Karachi,Social Media,2023-04-03
+472,Customer_0472,Islamabad,Paid Ads,2023-03-02
+473,Customer_0473,Lahore,Paid Ads,2024-01-11
+474,Customer_0474,Lahore,Paid Ads,2023-01-01
+475,Customer_0475,Karachi,Organic Search,2024-02-17
+476,Customer_0476,Karachi,Paid Ads,2023-10-04
+477,Customer_0477,Islamabad,Organic Search,2023-08-23
+478,Customer_0478,Faisalabad,Organic Search,2024-05-06
+479,Customer_0479,Faisalabad,Email,2023-12-11
+480,Customer_0480,Karachi,Paid Ads,2024-04-13
+481,Customer_0481,Karachi,Paid Ads,2024-03-29
+482,Customer_0482,Lahore,Paid Ads,2023-01-21
+483,Customer_0483,Faisalabad,Paid Ads,2023-05-18
+484,Customer_0484,Karachi,Referral,2023-12-31
+485,Customer_0485,Lahore,Social Media,2024-09-15
+486,Customer_0486,Karachi,Social Media,2023-04-09
+487,Customer_0487,Islamabad,Paid Ads,2023-03-09
+488,Customer_0488,Karachi,Paid Ads,2024-08-24
+489,Customer_0489,Faisalabad,Paid Ads,2024-09-09
+490,Customer_0490,Faisalabad,Paid Ads,2023-04-17
+491,Customer_0491,Multan,Paid Ads,2023-09-14
+492,Customer_0492,Faisalabad,Referral,2024-02-05
+493,Customer_0493,Faisalabad,Paid Ads,2023-05-05
+494,Customer_0494,Karachi,Paid Ads,2023-07-28
+495,Customer_0495,Rawalpindi,Paid Ads,2023-09-10
+496,Customer_0496,Islamabad,Paid Ads,2024-02-14
+497,Customer_0497,Islamabad,Organic Search,2023-07-16
+498,Customer_0498,Faisalabad,Organic Search,2023-09-21
+499,Customer_0499,Karachi,Referral,2023-07-05
+500,Customer_0500,Islamabad,Paid Ads,2024-04-30
+501,Customer_0501,Multan,Organic Search,2023-04-08
+502,Customer_0502,Peshawar,Paid Ads,2023-05-28
+503,Customer_0503,Peshawar,Referral,2023-06-09
+504,Customer_0504,Islamabad,Organic Search,2024-08-01
+505,Customer_0505,Islamabad,Email,2024-08-26
+506,Customer_0506,Rawalpindi,Social Media,2023-11-16
+507,Customer_0507,Karachi,Paid Ads,2023-04-10
+508,Customer_0508,Rawalpindi,Referral,2024-04-28
+509,Customer_0509,Islamabad,Organic Search,2023-11-11
+510,Customer_0510,Lahore,Social Media,2024-06-26
+511,Customer_0511,Lahore,Paid Ads,2023-08-19
+512,Customer_0512,Peshawar,Social Media,2024-09-30
+513,Customer_0513,Lahore,Paid Ads,2024-05-30
+514,Customer_0514,Karachi,Organic Search,2023-05-24
+515,Customer_0515,Karachi,Organic Search,2024-04-08
+516,Customer_0516,Lahore,Referral,2023-07-03
+517,Customer_0517,Karachi,Paid Ads,2023-08-12
+518,Customer_0518,Rawalpindi,Organic Search,2023-06-10
+519,Customer_0519,Lahore,Referral,2024-03-11
+520,Customer_0520,Rawalpindi,Email,2023-06-17
+521,Customer_0521,Peshawar,Paid Ads,2024-02-13
+522,Customer_0522,Karachi,Paid Ads,2024-01-08
+523,Customer_0523,Lahore,Organic Search,2024-04-24
+524,Customer_0524,Faisalabad,Email,2024-09-26
+525,Customer_0525,Lahore,Paid Ads,2023-01-06
+526,Customer_0526,Karachi,Email,2024-09-24
+527,Customer_0527,Quetta,Paid Ads,2023-03-11
+528,Customer_0528,Quetta,Paid Ads,2023-12-03
+529,Customer_0529,Rawalpindi,Organic Search,2023-08-06
+530,Customer_0530,Karachi,Organic Search,2024-02-13
+531,Customer_0531,Multan,Referral,2024-04-06
+532,Customer_0532,Multan,Paid Ads,2024-07-03
+533,Customer_0533,Karachi,Paid Ads,2023-09-14
+534,Customer_0534,Faisalabad,Social Media,2024-08-19
+535,Customer_0535,Lahore,Social Media,2023-07-26
+536,Customer_0536,Lahore,Email,2023-05-11
+537,Customer_0537,Islamabad,Organic Search,2023-08-31
+538,Customer_0538,Lahore,Paid Ads,2023-12-04
+539,Customer_0539,Lahore,Email,2024-03-02
+540,Customer_0540,Rawalpindi,Paid Ads,2024-06-16
+541,Customer_0541,Quetta,Organic Search,2023-05-24
+542,Customer_0542,Islamabad,Email,2023-07-13
+543,Customer_0543,Rawalpindi,Paid Ads,2024-08-22
+544,Customer_0544,Quetta,Paid Ads,2023-10-09
+545,Customer_0545,Lahore,Social Media,2023-06-04
+546,Customer_0546,Islamabad,Referral,2024-09-21
+547,Customer_0547,Karachi,Paid Ads,2023-10-14
+548,Customer_0548,Lahore,Paid Ads,2024-09-21
+549,Customer_0549,Rawalpindi,Paid Ads,2024-08-10
+550,Customer_0550,Islamabad,Organic Search,2024-08-02
+551,Customer_0551,Islamabad,Email,2024-01-07
+552,Customer_0552,Lahore,Email,2024-05-25
+553,Customer_0553,Lahore,Organic Search,2024-09-05
+554,Customer_0554,Peshawar,Organic Search,2023-06-21
+555,Customer_0555,Lahore,Email,2023-01-25
+556,Customer_0556,Karachi,Organic Search,2023-07-25
+557,Customer_0557,Karachi,Paid Ads,2024-02-11
+558,Customer_0558,Islamabad,Paid Ads,2023-12-16
+559,Customer_0559,Faisalabad,Referral,2023-02-21
+560,Customer_0560,Islamabad,Organic Search,2023-12-25
+561,Customer_0561,Lahore,Referral,2023-04-22
+562,Customer_0562,Karachi,Paid Ads,2023-11-20
+563,Customer_0563,Peshawar,Referral,2024-01-03
+564,Customer_0564,Faisalabad,Organic Search,2024-02-11
+565,Customer_0565,Faisalabad,Paid Ads,2023-09-21
+566,Customer_0566,Multan,Paid Ads,2023-09-18
+567,Customer_0567,Rawalpindi,Organic Search,2024-03-09
+568,Customer_0568,Lahore,Organic Search,2024-04-23
+569,Customer_0569,Karachi,Organic Search,2024-05-31
+570,Customer_0570,Islamabad,Paid Ads,2023-08-02
+571,Customer_0571,Karachi,Organic Search,2023-09-28
+572,Customer_0572,Peshawar,Social Media,2023-07-31
+573,Customer_0573,Islamabad,Paid Ads,2023-12-04
+574,Customer_0574,Rawalpindi,Email,2023-03-23
+575,Customer_0575,Peshawar,Social Media,2023-10-02
+576,Customer_0576,Islamabad,Organic Search,2023-05-01
+577,Customer_0577,Peshawar,Referral,2023-12-07
+578,Customer_0578,Faisalabad,Email,2024-06-27
+579,Customer_0579,Peshawar,Referral,2024-09-21
+580,Customer_0580,Karachi,Paid Ads,2023-10-13
+581,Customer_0581,Islamabad,Paid Ads,2023-02-05
+582,Customer_0582,Islamabad,Organic Search,2023-05-26
+583,Customer_0583,Lahore,Paid Ads,2023-03-08
+584,Customer_0584,Karachi,Social Media,2024-04-30
+585,Customer_0585,Peshawar,Social Media,2024-09-21
+586,Customer_0586,Faisalabad,Organic Search,2023-12-20
+587,Customer_0587,Lahore,Referral,2023-04-24
+588,Customer_0588,Karachi,Organic Search,2023-01-14
+589,Customer_0589,Lahore,Social Media,2024-09-15
+590,Customer_0590,Lahore,Organic Search,2023-07-22
+591,Customer_0591,Peshawar,Social Media,2023-03-13
+592,Customer_0592,Islamabad,Email,2023-04-24
+593,Customer_0593,Karachi,Organic Search,2023-06-13
+594,Customer_0594,Faisalabad,Organic Search,2024-02-24
+595,Customer_0595,Lahore,Email,2024-07-23
+596,Customer_0596,Karachi,Organic Search,2023-06-25
+597,Customer_0597,Multan,Paid Ads,2024-03-15
+598,Customer_0598,Faisalabad,Social Media,2023-02-11
+599,Customer_0599,Quetta,Paid Ads,2023-01-07
+600,Customer_0600,Faisalabad,Paid Ads,2023-02-05
+601,Customer_0601,Islamabad,Paid Ads,2024-08-12
+602,Customer_0602,Rawalpindi,Organic Search,2024-01-07
+603,Customer_0603,Peshawar,Social Media,2024-05-29
+604,Customer_0604,Multan,Organic Search,2023-01-14
+605,Customer_0605,Quetta,Organic Search,2023-01-15
+606,Customer_0606,Rawalpindi,Organic Search,2024-06-26
+607,Customer_0607,Peshawar,Social Media,2023-03-07
+608,Customer_0608,Lahore,Organic Search,2023-04-10
+609,Customer_0609,Multan,Email,2023-11-28
+610,Customer_0610,Islamabad,Referral,2024-01-23
+611,Customer_0611,Islamabad,Email,2023-05-27
+612,Customer_0612,Faisalabad,Social Media,2023-10-12
+613,Customer_0613,Quetta,Email,2024-03-07
+614,Customer_0614,Quetta,Social Media,2023-10-10
+615,Customer_0615,Karachi,Organic Search,2023-09-02
+616,Customer_0616,Multan,Email,2023-02-15
+617,Customer_0617,Rawalpindi,Paid Ads,2023-10-16
+618,Customer_0618,Karachi,Paid Ads,2024-05-27
+619,Customer_0619,Lahore,Email,2024-02-05
+620,Customer_0620,Lahore,Social Media,2024-07-24
+621,Customer_0621,Rawalpindi,Referral,2023-03-22
+622,Customer_0622,Islamabad,Paid Ads,2023-01-08
+623,Customer_0623,Quetta,Paid Ads,2023-12-17
+624,Customer_0624,Islamabad,Paid Ads,2023-04-25
+625,Customer_0625,Quetta,Paid Ads,2024-01-15
+626,Customer_0626,Karachi,Paid Ads,2024-07-31
+627,Customer_0627,Rawalpindi,Organic Search,2023-08-04
+628,Customer_0628,Lahore,Organic Search,2023-12-18
+629,Customer_0629,Islamabad,Referral,2024-03-11
+630,Customer_0630,Rawalpindi,Paid Ads,2023-04-06
+631,Customer_0631,Peshawar,Social Media,2024-07-27
+632,Customer_0632,Rawalpindi,Referral,2023-05-10
+633,Customer_0633,Lahore,Organic Search,2024-05-31
+634,Customer_0634,Karachi,Organic Search,2024-02-26
+635,Customer_0635,Lahore,Organic Search,2023-04-01
+636,Customer_0636,Lahore,Social Media,2024-04-08
+637,Customer_0637,Multan,Organic Search,2023-05-06
+638,Customer_0638,Multan,Paid Ads,2024-01-19
+639,Customer_0639,Rawalpindi,Social Media,2024-09-05
+640,Customer_0640,Peshawar,Social Media,2024-09-01
+641,Customer_0641,Multan,Organic Search,2024-07-10
+642,Customer_0642,Rawalpindi,Organic Search,2023-11-12
+643,Customer_0643,Lahore,Organic Search,2023-12-24
+644,Customer_0644,Karachi,Organic Search,2023-07-11
+645,Customer_0645,Faisalabad,Organic Search,2024-08-11
+646,Customer_0646,Peshawar,Paid Ads,2023-11-01
+647,Customer_0647,Lahore,Social Media,2024-05-08
+648,Customer_0648,Islamabad,Paid Ads,2023-08-18
+649,Customer_0649,Multan,Referral,2024-04-18
+650,Customer_0650,Lahore,Organic Search,2023-05-24
+651,Customer_0651,Karachi,Email,2024-04-13
+652,Customer_0652,Peshawar,Referral,2023-01-30
+653,Customer_0653,Multan,Email,2023-03-08
+654,Customer_0654,Karachi,Social Media,2023-08-14
+655,Customer_0655,Peshawar,Paid Ads,2023-11-05
+656,Customer_0656,Karachi,Organic Search,2024-03-30
+657,Customer_0657,Peshawar,Organic Search,2023-08-18
+658,Customer_0658,Karachi,Paid Ads,2023-01-12
+659,Customer_0659,Faisalabad,Social Media,2023-07-27
+660,Customer_0660,Karachi,Paid Ads,2023-10-08
+661,Customer_0661,Karachi,Referral,2023-12-14
+662,Customer_0662,Peshawar,Paid Ads,2024-02-16
+663,Customer_0663,Lahore,Organic Search,2023-06-08
+664,Customer_0664,Lahore,Paid Ads,2024-01-26
+665,Customer_0665,Karachi,Referral,2024-02-08
+666,Customer_0666,Multan,Referral,2024-05-11
+667,Customer_0667,Rawalpindi,Paid Ads,2023-11-30
+668,Customer_0668,Quetta,Organic Search,2024-06-01
+669,Customer_0669,Karachi,Referral,2023-05-22
+670,Customer_0670,Karachi,Organic Search,2024-03-30
+671,Customer_0671,Lahore,Social Media,2023-01-30
+672,Customer_0672,Faisalabad,Organic Search,2023-03-07
+673,Customer_0673,Quetta,Organic Search,2024-07-06
+674,Customer_0674,Multan,Paid Ads,2023-10-31
+675,Customer_0675,Faisalabad,Paid Ads,2024-02-01
+676,Customer_0676,Karachi,Paid Ads,2024-01-21
+677,Customer_0677,Peshawar,Paid Ads,2024-03-20
+678,Customer_0678,Islamabad,Social Media,2023-06-06
+679,Customer_0679,Lahore,Paid Ads,2023-04-24
+680,Customer_0680,Karachi,Paid Ads,2023-01-28
+681,Customer_0681,Lahore,Paid Ads,2024-07-06
+682,Customer_0682,Lahore,Organic Search,2023-05-23
+683,Customer_0683,Lahore,Paid Ads,2024-01-03
+684,Customer_0684,Islamabad,Organic Search,2023-10-18
+685,Customer_0685,Faisalabad,Referral,2023-04-14
+686,Customer_0686,Karachi,Organic Search,2023-09-22
+687,Customer_0687,Islamabad,Social Media,2023-02-23
+688,Customer_0688,Quetta,Paid Ads,2023-04-23
+689,Customer_0689,Rawalpindi,Email,2023-03-31
+690,Customer_0690,Islamabad,Paid Ads,2024-06-10
+691,Customer_0691,Karachi,Organic Search,2023-12-29
+692,Customer_0692,Peshawar,Email,2024-08-14
+693,Customer_0693,Karachi,Referral,2023-10-06
+694,Customer_0694,Karachi,Email,2023-05-09
+695,Customer_0695,Peshawar,Paid Ads,2024-01-24
+696,Customer_0696,Islamabad,Referral,2024-08-16
+697,Customer_0697,Rawalpindi,Email,2023-12-07
+698,Customer_0698,Faisalabad,Referral,2023-01-12
+699,Customer_0699,Faisalabad,Paid Ads,2023-07-14
+700,Customer_0700,Karachi,Referral,2024-08-14
+701,Customer_0701,Karachi,Referral,2023-11-28
+702,Customer_0702,Karachi,Social Media,2024-08-31
+703,Customer_0703,Lahore,Paid Ads,2023-11-22
+704,Customer_0704,Peshawar,Paid Ads,2023-01-08
+705,Customer_0705,Karachi,Email,2024-07-11
+706,Customer_0706,Faisalabad,Paid Ads,2024-05-02
+707,Customer_0707,Rawalpindi,Referral,2024-04-02
+708,Customer_0708,Rawalpindi,Paid Ads,2024-09-11
+709,Customer_0709,Islamabad,Organic Search,2023-05-06
+710,Customer_0710,Islamabad,Referral,2024-08-01
+711,Customer_0711,Quetta,Organic Search,2023-05-29
+712,Customer_0712,Multan,Organic Search,2024-09-12
+713,Customer_0713,Rawalpindi,Referral,2023-05-03
+714,Customer_0714,Peshawar,Referral,2023-12-18
+715,Customer_0715,Rawalpindi,Email,2024-05-19
+716,Customer_0716,Lahore,Organic Search,2023-02-19
+717,Customer_0717,Faisalabad,Organic Search,2023-02-12
+718,Customer_0718,Lahore,Social Media,2024-06-27
+719,Customer_0719,Faisalabad,Organic Search,2023-02-08
+720,Customer_0720,Quetta,Organic Search,2024-01-28
+721,Customer_0721,Islamabad,Organic Search,2024-08-22
+722,Customer_0722,Islamabad,Paid Ads,2024-01-28
+723,Customer_0723,Lahore,Email,2023-11-04
+724,Customer_0724,Quetta,Referral,2023-09-24
+725,Customer_0725,Lahore,Referral,2024-02-12
+726,Customer_0726,Lahore,Organic Search,2024-01-01
+727,Customer_0727,Karachi,Paid Ads,2023-11-17
+728,Customer_0728,Lahore,Paid Ads,2023-04-09
+729,Customer_0729,Islamabad,Organic Search,2024-02-28
+730,Customer_0730,Islamabad,Organic Search,2024-04-17
+731,Customer_0731,Karachi,Organic Search,2024-03-28
+732,Customer_0732,Lahore,Organic Search,2023-02-17
+733,Customer_0733,Lahore,Paid Ads,2024-03-25
+734,Customer_0734,Karachi,Referral,2024-04-11
+735,Customer_0735,Lahore,Organic Search,2023-04-28
+736,Customer_0736,Multan,Paid Ads,2024-06-26
+737,Customer_0737,Lahore,Email,2023-12-01
+738,Customer_0738,Karachi,Referral,2023-10-29
+739,Customer_0739,Karachi,Email,2024-04-06
+740,Customer_0740,Karachi,Paid Ads,2023-11-22
+741,Customer_0741,Lahore,Email,2023-12-15
+742,Customer_0742,Lahore,Organic Search,2023-07-19
+743,Customer_0743,Peshawar,Paid Ads,2024-08-15
+744,Customer_0744,Lahore,Organic Search,2024-09-11
+745,Customer_0745,Islamabad,Paid Ads,2023-03-25
+746,Customer_0746,Islamabad,Paid Ads,2024-04-13
+747,Customer_0747,Karachi,Organic Search,2023-01-15
+748,Customer_0748,Islamabad,Referral,2023-08-24
+749,Customer_0749,Rawalpindi,Organic Search,2024-09-11
+750,Customer_0750,Peshawar,Organic Search,2023-04-22
+751,Customer_0751,Karachi,Organic Search,2023-08-29
+752,Customer_0752,Karachi,Paid Ads,2023-05-21
+753,Customer_0753,Karachi,Organic Search,2024-04-10
+754,Customer_0754,Islamabad,Paid Ads,2023-10-24
+755,Customer_0755,Multan,Organic Search,2024-01-15
+756,Customer_0756,Karachi,Referral,2024-08-25
+757,Customer_0757,Karachi,Social Media,2023-11-29
+758,Customer_0758,Quetta,Paid Ads,2024-04-14
+759,Customer_0759,Lahore,Referral,2023-03-04
+760,Customer_0760,Islamabad,Email,2023-05-18
+761,Customer_0761,Multan,Social Media,2024-08-28
+762,Customer_0762,Lahore,Referral,2024-07-03
+763,Customer_0763,Lahore,Email,2024-02-24
+764,Customer_0764,Lahore,Social Media,2023-08-30
+765,Customer_0765,Peshawar,Email,2023-05-08
+766,Customer_0766,Lahore,Paid Ads,2024-06-28
+767,Customer_0767,Lahore,Organic Search,2024-05-16
+768,Customer_0768,Lahore,Organic Search,2023-06-04
+769,Customer_0769,Lahore,Paid Ads,2024-01-12
+770,Customer_0770,Faisalabad,Paid Ads,2024-01-31
+771,Customer_0771,Karachi,Paid Ads,2023-11-02
+772,Customer_0772,Faisalabad,Paid Ads,2024-08-15
+773,Customer_0773,Faisalabad,Paid Ads,2023-03-21
+774,Customer_0774,Peshawar,Email,2023-06-14
+775,Customer_0775,Lahore,Organic Search,2023-03-02
+776,Customer_0776,Peshawar,Organic Search,2024-03-18
+777,Customer_0777,Faisalabad,Email,2024-02-16
+778,Customer_0778,Lahore,Email,2024-09-22
+779,Customer_0779,Rawalpindi,Social Media,2023-12-13
+780,Customer_0780,Peshawar,Email,2023-04-07
+781,Customer_0781,Karachi,Email,2023-10-16
+782,Customer_0782,Peshawar,Organic Search,2023-02-26
+783,Customer_0783,Islamabad,Paid Ads,2024-03-04
+784,Customer_0784,Faisalabad,Organic Search,2024-03-06
+785,Customer_0785,Quetta,Referral,2024-07-02
+786,Customer_0786,Karachi,Social Media,2023-08-06
+787,Customer_0787,Rawalpindi,Paid Ads,2023-07-18
+788,Customer_0788,Karachi,Paid Ads,2023-02-15
+789,Customer_0789,Rawalpindi,Organic Search,2023-09-23
+790,Customer_0790,Faisalabad,Organic Search,2023-10-31
+791,Customer_0791,Lahore,Organic Search,2024-04-27
+792,Customer_0792,Karachi,Organic Search,2024-04-26
+793,Customer_0793,Karachi,Social Media,2023-03-31
+794,Customer_0794,Lahore,Paid Ads,2023-07-02
+795,Customer_0795,Lahore,Email,2023-11-23
+796,Customer_0796,Karachi,Referral,2023-08-03
+797,Customer_0797,Lahore,Organic Search,2023-01-17
+798,Customer_0798,Lahore,Organic Search,2024-06-24
+799,Customer_0799,Multan,Email,2024-04-12
+800,Customer_0800,Multan,Organic Search,2023-11-29

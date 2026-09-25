@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Electronics Item 001,Electronics,166.25,116.26
+2,Electronics Item 002,Electronics,118.54,75.08
+3,Electronics Item 003,Electronics,42.57,30.14
+4,Electronics Item 004,Electronics,343.75,223.28
+5,Electronics Item 005,Electronics,176.19,89.75
+6,Electronics Item 006,Electronics,289.07,187.55
+7,Electronics Item 007,Electronics,97.14,55.55
+8,Electronics Item 008,Electronics,175.41,118.07
+9,Electronics Item 009,Electronics,247.25,154.2
+10,Electronics Item 010,Electronics,236.19,123.53
+11,Home & Kitchen Item 011,Home & Kitchen,62.04,28.68
+12,Home & Kitchen Item 012,Home & Kitchen,120.17,68.13
+13,Home & Kitchen Item 013,Home & Kitchen,71.35,36.83
+14,Home & Kitchen Item 014,Home & Kitchen,39.32,23.93
+15,Home & Kitchen Item 015,Home & Kitchen,42.56,19.89
+16,Home & Kitchen Item 016,Home & Kitchen,117.45,64.79
+17,Home & Kitchen Item 017,Home & Kitchen,63.23,35.82
+18,Home & Kitchen Item 018,Home & Kitchen,124.11,66.6
+19,Home & Kitchen Item 019,Home & Kitchen,116.13,81.72
+20,Home & Kitchen Item 020,Home & Kitchen,102.52,58.08
+21,Apparel Item 021,Apparel,69.32,39.76
+22,Apparel Item 022,Apparel,41.98,24.84
+23,Apparel Item 023,Apparel,34.05,16.28
+24,Apparel Item 024,Apparel,42.02,20.31
+25,Apparel Item 025,Apparel,41.66,25.01
+26,Apparel Item 026,Apparel,84.32,38.77
+27,Apparel Item 027,Apparel,58.96,33.82
+28,Apparel Item 028,Apparel,9.66,5.0
+29,Apparel Item 029,Apparel,17.72,9.01
+30,Apparel Item 030,Apparel,30.51,17.04
+31,Beauty Item 031,Beauty,34.1,15.35
+32,Beauty Item 032,Beauty,13.9,6.61
+33,Beauty Item 033,Beauty,35.23,18.98
+34,Beauty Item 034,Beauty,35.16,17.93
+35,Beauty Item 035,Beauty,6.33,4.46
+36,Beauty Item 036,Beauty,10.96,5.31
+37,Beauty Item 037,Beauty,13.06,9.34
+38,Beauty Item 038,Beauty,38.97,23.96
+39,Beauty Item 039,Beauty,59.27,28.09
+40,Beauty Item 040,Beauty,58.6,29.6
+41,Sports & Outdoors Item 041,Sports & Outdoors,116.68,65.74
+42,Sports & Outdoors Item 042,Sports & Outdoors,76.5,53.66
+43,Sports & Outdoors Item 043,Sports & Outdoors,37.07,26.66
+44,Sports & Outdoors Item 044,Sports & Outdoors,75.69,47.32
+45,Sports & Outdoors Item 045,Sports & Outdoors,174.61,81.29
+46,Sports & Outdoors Item 046,Sports & Outdoors,167.04,100.78
+47,Sports & Outdoors Item 047,Sports & Outdoors,130.34,63.9
+48,Sports & Outdoors Item 048,Sports & Outdoors,101.61,64.2
+49,Sports & Outdoors Item 049,Sports & Outdoors,88.65,43.6
+50,Sports & Outdoors Item 050,Sports & Outdoors,53.01,36.08
+51,Books Item 051,Books,5.07,3.25
+52,Books Item 052,Books,34.98,15.81
+53,Books Item 053,Books,8.99,5.68
+54,Books Item 054,Books,5.86,3.57
+55,Books Item 055,Books,25.2,15.34
+56,Books Item 056,Books,15.32,9.78
+57,Books Item 057,Books,22.42,11.35
+58,Books Item 058,Books,21.46,14.77
+59,Books Item 059,Books,24.67,14.24
+60,Books Item 060,Books,13.97,6.61
